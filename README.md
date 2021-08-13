@@ -18,4 +18,4 @@ MIT Expat license.
 
 Written by Guilhem Ribeill (@gribeill). Contributions by Luke Govia and Matt Ware.
 
-(c) 2014 Raytheon BBN Technologies
+(c) 2021 Raytheon BBN Technologies
